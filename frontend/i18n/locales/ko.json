@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "features": "기능",
+    "blog": "블로그",
+    "pricing": "가격",
+    "getStarted": "시작하기",
+    "login": "로그인"
+  },
+  "hero": {
+    "badge": "✨ GPT-4 기반",
+    "title": "텍스트를",
+    "titleGradient": "바이럴 밈",
+    "description": "어떤 텍스트든 몇 초 만에 재미있는 밈으로 만드세요. 110개 이상의 언어 지원, 무제한 템플릿, AI 창의성.",
+    "ctaPrimary": "묣 시작하기",
+    "ctaSecondary": "데모 보기",
+    "stats": {
+      "users": "200만+ 사용자",
+      "memes": "5000만+ 생성된 밈",
+      "languages": "110+ 언어"
+    }
+  },
+  "features": {
+    "badge": "기능",
+    "title": "바이럴이 되기 위해 필요한",
+    "titleGradient": "모든 것",
+    "aiGeneration": {
+      "title": "AI 텍스트→밈",
+      "description": "아무 텍스트나 입력하고 AI가 즉시 8가지 독특한 밈 변형을 생성하는 것을 지켜보세요. 디자인 기술 불필요."
+    },
+    "multilingual": {
+      "title": "110+ 언어",
+      "description": "모국어로 밈을 만드세요. 우리 AI는 110개 이상의 언어로 맥락을 이해합니다."
+    },
+    "templates": {
+      "title": "무제한 템플릿",
+      "description": "수천 개의 트렌드 템플릿에 접근하거나 자신의 템플릿을 업로드하세요. 항상 신선하고 적절합니다."
+    },
+    "video": {
+      "title": "비디오 밈",
+      "description": "완벽한 타이밍과 캡션으로 애니메이션 GIF와 비디오 밈을 만드세요."
+    },
+    "api": {
+      "title": "API 접근",
+      "description": "강력한 API로 앱, 봇, 워크플로우에 밈 생성을 통합하세요."
+    },
+    "custom": {
+      "title": "커스텀 브랜딩",
+      "description": "로고와 워터마크를 추가하세요. 소셜 미디어 관리자와 브랜드에 완벽합니다."
+    }
+  },
+  "howItWorks": {
+    "badge": "작동 방식",
+    "title": "3단계로 밈 만들기",
+    "titleGradient": "간단합니다",
+    "step1": {
+      "number": "01",
+      "title": "텍스트 입력",
+      "description": "밈으로 만들고 싶은 텍스트, 문구, 아이디어를 입력하세요."
+    },
+    "step2": {
+      "number": "02",
+      "title": "AI 마법",
+      "description": "AI가 텍스트를 분석하고 완벽하게 일치하는 8가지 밈 변형을 생성합니다."
+    },
+    "step3": {
+      "number": "03",
+      "title": "공유하고 바이럴",
+      "description": "다운로드하거나 소셜 미디어에서 바로 공유하세요. 좋아요가 쏟아지는 것을 지켜보세요."
+    }
+  },
+  "pricing": {
+    "badge": "가격",
+    "title": "간단하고 투명한",
+    "titleGradient": "가격",
+    "subtitle": "묣로 시작해서 더 많은 기능이 필요할 때 업그레이드하세요",
+    "free": {
+      "name": "묣",
+      "price": "₩0",
+      "period": "영원히",
+      "description": "시험용으로 완벽",
+      "features": [
+        "하루 10개 AI 밈",
+        "기본 템플릿",
+        "표준 품질",
+        "워터마크 포함"
+      ],
+      "cta": "시작하기"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "₩13,000",
+      "period": "월간",
+      "description": "콘텐츠 크리에이터용",
+      "popular": "가장 인기",
+      "features": [
+        "무제한 AI 밈",
+        "모든 템플릿 + GIF",
+        "HD 품질 낼볂",
+        "워터마크 없음",
+        "우선 지원"
+      ],
+      "cta": "묣 체험하기"
+    },
+    "team": {
+      "name": "팀",
+      "price": "₩40,000",
+      "period": "월간",
+      "description": "팀과 대행사용",
+      "features": [
+        "Pro의 모든 것",
+        "5명의 팀 멤버",
+        "API 접근",
+        "커스텀 브랜딩",
+        "분석 대시보드"
+      ],
+      "cta": "영업팀 연락"
+    }
+  },
+  "footer": {
+    "tagline": "인터넷을 더 재미있게, 한 번에 하나의 밈으로.",
+    "product": "제품",
+    "resources": "리소스",
+    "company": "회사",
+    "legal": "법률 정보",
+    "rights": "모든 권리 보유."
+  },
+  "language": {
+    "title": "언어",
+    "search": "언어 검색..."
+  },
+  "templates": {
+    "title": "밈 템플릿",
+    "subtitle": "인기 있는 밈 템플릿 컬렉션을 둘러보세요.",
+    "loadMore": "더 불러오기"
+  }
+}

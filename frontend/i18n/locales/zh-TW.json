@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "features": "功能",
+    "blog": "部落格",
+    "pricing": "價格",
+    "getStarted": "開始使用",
+    "login": "登入"
+  },
+  "hero": {
+    "badge": "✨ 由 GPT-4 驅動",
+    "title": "將文字轉化為",
+    "titleGradient": "病毒式迷因",
+    "description": "幾秒鐘內從任何文本生成搞笑迷因。支援110多種語言、無限範本和AI創意。",
+    "ctaPrimary": "免費開始",
+    "ctaSecondary": "觀看演示",
+    "stats": {
+      "users": "200萬+ 用戶",
+      "memes": "5000萬+ 已創建迷因",
+      "languages": "110+ 種語言"
+    }
+  },
+  "features": {
+    "badge": "功能",
+    "title": "成為網紅所需的一切",
+    "titleGradient": "都在這",
+    "aiGeneration": {
+      "title": "AI 文字生成迷因",
+      "description": "輸入任意文字，看著AI瞬間生成8種獨特的迷因變體。無需設計技能。"
+    },
+    "multilingual": {
+      "title": "110+ 種語言",
+      "description": "用您的母語創建迷因。我們的AI理解110多種語言的語境。"
+    },
+    "templates": {
+      "title": "無限範本",
+      "description": "訪問數千個熱門範本或上傳您自己的範本。永遠新鮮，永遠相關。"
+    },
+    "video": {
+      "title": "影片迷因",
+      "description": "創建具有完美時機和字幕的動畫GIF和影片迷因。"
+    },
+    "api": {
+      "title": "API 接入",
+      "description": "透過我們強大的API將迷因生成整合到您的應用、機器人和工作流程中。"
+    },
+    "custom": {
+      "title": "自訂品牌",
+      "description": "添加您的商標和浮水印。非常適合社群媒體經理和品牌。"
+    }
+  },
+  "howItWorks": {
+    "badge": "運作方式",
+    "title": "3個簡單步驟",
+    "titleGradient": "創建迷因",
+    "step1": {
+      "number": "01",
+      "title": "輸入文字",
+      "description": "輸入任何您想轉化為迷因的文本、短語或想法。"
+    },
+    "step2": {
+      "number": "02",
+      "title": "AI 魔法",
+      "description": "我們的AI分析您的文本並生成8個完美匹配的迷因變體。"
+    },
+    "step3": {
+      "number": "03",
+      "title": "分享走紅",
+      "description": "下載或直接分享到社群媒體。看著讚數蜂擁而至。"
+    }
+  },
+  "pricing": {
+    "badge": "價格",
+    "title": "簡單透明的",
+    "titleGradient": "定價",
+    "subtitle": "免費開始，需要更多功能時升級",
+    "free": {
+      "name": "免費版",
+      "price": "NT$0",
+      "period": "永久",
+      "description": "適合試用",
+      "features": [
+        "每日10個AI迷因",
+        "基礎範本",
+        "標準品質",
+        "匯出帶浮水印"
+      ],
+      "cta": "開始使用"
+    },
+    "pro": {
+      "name": "專業版",
+      "price": "NT$299",
+      "period": "每月",
+      "description": "適合內容創作者",
+      "popular": "最受歡迎",
+      "features": [
+        "無限AI迷因",
+        "所有範本+GIF",
+        "高畫質匯出",
+        "無浮水印",
+        "優先支援"
+      ],
+      "cta": "免費試用"
+    },
+    "team": {
+      "name": "團隊版",
+      "price": "NT$899",
+      "period": "每月",
+      "description": "適合團隊和機構",
+      "features": [
+        "專業版全部功能",
+        "5名團隊成員",
+        "API接入",
+        "自訂品牌",
+        "分析儀表板"
+      ],
+      "cta": "聯繫銷售"
+    }
+  },
+  "footer": {
+    "tagline": "讓網際網路更有趣，一次一個迷因。",
+    "product": "產品",
+    "resources": "資源",
+    "company": "公司",
+    "legal": "法律資訊",
+    "rights": "版權所有。"
+  },
+  "language": {
+    "title": "語言",
+    "search": "搜尋語言..."
+  },
+  "templates": {
+    "title": "迷因範本",
+    "subtitle": "瀏覽我們精選的熱門迷因範本。",
+    "loadMore": "載入更多"
+  }
+}

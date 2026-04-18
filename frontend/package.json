@@ -1,0 +1,37 @@
+{
+  "name": "meme-generator-landing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port 3000",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "nuxt": "^3.13.0",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^8.3.0",
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "@unhead/vue": "1.9.16",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "lucide-vue-next": "^0.363.0",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7",
+    "unhead": "1.9.16"
+  },
+  "pnpm": {
+    "overrides": {
+      "unhead": "1.9.16",
+      "@unhead/vue": "1.9.16",
+      "@unhead/ssr": "1.9.16",
+      "@unhead/shared": "1.9.16",
+      "@unhead/dom": "1.9.16"
+    }
+  }
+}

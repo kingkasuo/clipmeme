@@ -1,8 +1,17 @@
+# Dependencies
+node_modules/
+
 # Build and Release Folders
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+docs
+.nuxt/
+.output/
+dist/
+build/
+
 
 # Other files and folders
 .settings/

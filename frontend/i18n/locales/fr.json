@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "blog": "Blog",
+    "pricing": "Tarifs",
+    "getStarted": "Commencer",
+    "login": "Connexion"
+  },
+  "hero": {
+    "badge": "✨ Propulsé par GPT-4",
+    "title": "Transformez le texte en",
+    "titleGradient": "Mèmes viraux",
+    "description": "Générez des mèmes hilarants à partir de n'importe quel texte en quelques secondes. Support de 110+ langues, modèles illimités et créativité IA.",
+    "ctaPrimary": "Commencer gratuitement",
+    "ctaSecondary": "Voir la démo",
+    "stats": {
+      "users": "2M+ Utilisateurs",
+      "memes": "50M+ Mèmes créés",
+      "languages": "110+ Langues"
+    }
+  },
+  "features": {
+    "badge": "Fonctionnalités",
+    "title": "Tout ce dont vous avez besoin pour devenir",
+    "titleGradient": "viral",
+    "aiGeneration": {
+      "title": "IA Texte vers Mème",
+      "description": "Tapez n'importe quel texte et regardez l'IA générer 8 variations de mèmes instantanément. Aucune compétence en design requise."
+    },
+    "multilingual": {
+      "title": "110+ Langues",
+      "description": "Créez des mèmes dans votre langue maternelle. Notre IA comprend le contexte dans 110+ langues."
+    },
+    "templates": {
+      "title": "Modèles illimités",
+      "description": "Accédez à des milliers de modèles tendance ou téléchargez les vôtres. Toujours frais, toujours pertinent."
+    },
+    "video": {
+      "title": "Mèmes Vidéo",
+      "description": "Créez des mèmes GIF animés et vidéos avec un timing et des légendes parfaits."
+    },
+    "api": {
+      "title": "Accès API",
+      "description": "Intégrez la génération de mèmes dans vos applications, bots et workflows avec notre API puissante."
+    },
+    "custom": {
+      "title": "Personnalisation",
+      "description": "Ajoutez votre logo et filigrane. Parfait pour les community managers et les marques."
+    }
+  },
+  "howItWorks": {
+    "badge": "Comment ça marche",
+    "title": "Créez des mèmes en",
+    "titleGradient": "3 étapes simples",
+    "step1": {
+      "number": "01",
+      "title": "Entrez votre texte",
+      "description": "Tapez n'importe quel texte, phrase ou idée que vous souhaitez transformer en mème."
+    },
+    "step2": {
+      "number": "02",
+      "title": "Magie IA",
+      "description": "Notre IA analyse votre texte et génère 8 variations de mèmes parfaitement adaptées."
+    },
+    "step3": {
+      "number": "03",
+      "title": "Partagez et devenez viral",
+      "description": "Téléchargez ou partagez directement sur les réseaux sociaux. Regardez les likes affluer."
+    }
+  },
+  "pricing": {
+    "badge": "Tarifs",
+    "title": "Tarification simple et transparente",
+    "titleGradient": "",
+    "subtitle": "Commencez gratuitement, passez à la version supérieure quand vous avez besoin de plus de puissance",
+    "free": {
+      "name": "Gratuit",
+      "price": "0€",
+      "period": "pour toujours",
+      "description": "Parfait pour essayer",
+      "features": [
+        "10 mèmes IA par jour",
+        "Modèles de base",
+        "Qualité standard",
+        "Filigrane sur les exports"
+      ],
+      "cta": "Commencer"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "9,99€",
+      "period": "par mois",
+      "description": "Pour les créateurs de contenu",
+      "popular": "Le plus populaire",
+      "features": [
+        "Mèmes IA illimités",
+        "Tous les modèles + GIF",
+        "Export HD",
+        "Sans filigrane",
+        "Support prioritaire"
+      ],
+      "cta": "Essai gratuit"
+    },
+    "team": {
+      "name": "Équipe",
+      "price": "29,99€",
+      "period": "par mois",
+      "description": "Pour les équipes et agences",
+      "features": [
+        "Tout du Pro",
+        "5 membres d'équipe",
+        "Accès API",
+        "Personnalisation",
+        "Tableau de bord analytics"
+      ],
+      "cta": "Contacter les ventes"
+    }
+  },
+  "footer": {
+    "tagline": "Rendre Internet plus drôle, un mème à la fois.",
+    "product": "Produit",
+    "resources": "Ressources",
+    "company": "Entreprise",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés."
+  },
+  "language": {
+    "title": "Langue",
+    "search": "Rechercher une langue..."
+  },
+  "templates": {
+    "title": "Modèles de mèmes",
+    "subtitle": "Parcourez notre collection de modèles de mèmes tendance.",
+    "loadMore": "Charger plus"
+  }
+}
