@@ -11,6 +11,7 @@ docs
 .output/
 dist/
 build/
+.next/
 
 
 # Other files and folders
